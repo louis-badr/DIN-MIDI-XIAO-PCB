@@ -1,7 +1,9 @@
 # DIN-MIDI-XIAO-PCB
 
-<img src="MIDI-XIAO.jpg" height="200px" />
-<img src="MIDI-XIAO-KiCad.png" height="200px" />
+<div>
+    <img src="MIDI-XIAO.JPG" height="250px" />
+    <img src="MIDI-XIAO-KiCad.png" height="250px" />
+</div>
 
 DIN MIDI PCB for Seeed Studio XIAO format boards - designed for CNC milling
 
